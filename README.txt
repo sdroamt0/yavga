@@ -1,8 +1,12 @@
-########################################################
-#### This file is part of the yaVGA project         ####
-#### imported from my opencores project:            ####
-####       http://opencores.org/project,yavga       ####
-########################################################
+################################################################################
+####                                                                        ####
+#### This file is part of the yaVGA project:                                ####
+####    https://github.com/sdroamt0/yavga                                   ####
+####                                                                        ####
+#### imported to github from my opencores project:                          ####
+####    http://opencores.org/project,yavga                                  ####
+####                                                                        ####
+################################################################################
 
 This core is a semi semigraphic vga controller.
 
